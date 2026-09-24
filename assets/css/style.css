@@ -1,0 +1,7 @@
+.sidebar-link {
+  transition: 0.2s;
+}
+
+.sidebar-link:hover {
+  background-color: white;
+}
